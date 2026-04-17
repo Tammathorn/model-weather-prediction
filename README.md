@@ -2,6 +2,8 @@
 
 download data from https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/data
 
+Colab: https://colab.research.google.com/drive/13T9bwmX5wgZoSVWlSUWvvjbytVr4zKEp?usp=sharing
+
 Role
 ภัทร : วางแผน, ประสาน งาน, ตามงาน + รับจบเรื่องทำ Report และสไลด์ นำเสนอ
 
