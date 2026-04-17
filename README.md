@@ -3,7 +3,7 @@
 download data from https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/data
 
 Colab: https://colab.research.google.com/drive/13T9bwmX5wgZoSVWlSUWvvjbytVr4zKEp?usp=sharing
-ถ้าอยากลองอะไรเอง แนะนำให้โหลดไฟล์.ipynb ไปทำเอง ถ้าพลาดมันจะได้อยู่แค่ในของตัวเอง
+ถ้าอยากลองอะไรเอง แนะนำให้โหลดไฟล์.ipynb ไปทำเอง(ตอนนี้มีปัญหานิดหน่อย ขอยาดลบ เดี๋ยวลงใหม่ให้) ถ้าพลาดมันจะได้อยู่แค่ในของตัวเอง
 
 Role
 ภัทร : วางแผน, ประสาน งาน, ตามงาน + รับจบเรื่องทำ Report และสไลด์ นำเสนอ
